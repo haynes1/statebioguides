@@ -19,14 +19,14 @@ This system stores bioguide ids in two places, the csv file contained in this pr
 System Info
 
 - Will be similar to bioguide ids for federal legislators
-- - Ex. Federal bioguide A000009	
-- - Will add the state abbreviatio + SL as a prefix to denote state legislature
+	- Ex. Federal bioguide A000009	
+	- Will add the state abbreviatio + SL as a prefix to denote state legislature
 - Example: NYSLA000001
 - Guaranteeing Uniqueness:
-- - The SLBID table contains 5 pieces of identifying information:
-- - - state
-- - - last name
-- - - first name
-- - - current or last held district number
-- - - created at timestamp
+	- The SLBID table contains 5 pieces of identifying information:
+		- state
+		- last name
+		- first name
+		- current or last held district number
+		- created at timestamp
 
